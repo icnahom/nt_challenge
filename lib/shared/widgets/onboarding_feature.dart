@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:nt_challenge/shared/widgets/headline_text.dart';
 import 'package:nt_challenge/shared/widgets/onboarding_image.dart';
 
